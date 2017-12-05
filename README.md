@@ -1,4 +1,5 @@
 # testSMSMananger
+# Kotlin
 Integration of the SMSManager API alongside a sending and receiving intent.
 Using the SMSManager class, SMS is sent alongside a pending intent to report sending and delivery.
 
